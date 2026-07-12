@@ -1,0 +1,14 @@
+# Build artifacts
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio user-specific files
+*.vcxproj.user
+.vs/
+
+# Generated output
+backtest_log.txt

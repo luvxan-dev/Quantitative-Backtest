@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarketAnalysis", "MarketAnalysis.vcxproj", "{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Debug|x64.ActiveCfg = Debug|x64
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Debug|x64.Build.0 = Debug|x64
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Debug|x86.ActiveCfg = Debug|Win32
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Debug|x86.Build.0 = Debug|Win32
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Release|x64.ActiveCfg = Release|x64
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Release|x64.Build.0 = Release|x64
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Release|x86.ActiveCfg = Release|Win32
+		{B13B04C3-9949-4BF1-A5FD-BFE4FC3C3437}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80B937BF-5D2A-46AD-81FD-E2A0337E8092}
+	EndGlobalSection
+EndGlobal
