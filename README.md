@@ -24,7 +24,7 @@ via Binance Testnet is the current focus.
     - Position sizing (risk-managed capital allocation per trade)
     - Commission-aware P&L calculations
     - Persistent trade logging to file
-- Performance analytics: win rate, profir factor, max drawdown
+- Performance analytics: win rate, profit factor, max drawdown
 
 ## In Progress
 - Live market data integration via Binance Testnet API (libcurl + nlohmann/jsom)
